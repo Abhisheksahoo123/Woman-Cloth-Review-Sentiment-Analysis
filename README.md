@@ -6,8 +6,8 @@ This project analyzes customer reviews of women's clothing using Natural Languag
 - Python
 - Pandas
 - Scikit-learn
-- Naive Bayes / Logistic Regression
-- Flask (for deployment, if applicable)
+- Naive Bayes and  Logistic Regression
+
 
 ## 📂 Files Included
 - `sentiment_model.py`: Machine learning script for training and prediction
