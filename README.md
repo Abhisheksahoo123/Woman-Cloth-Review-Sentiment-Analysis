@@ -11,7 +11,6 @@ This project analyzes customer reviews of women's clothing using Natural Languag
 
  Files Included
 - `sentiment_model.py`: Machine learning script for training and prediction
-- `app.py`: Flask application for web interface (optional)
 
  Note
 This is an individual academic project completed as part of the B.Tech curriculum at Siksha 'O' Anusandhan University. It showcases the application of basic machine learning and NLP skills.
